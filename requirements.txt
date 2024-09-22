@@ -1,0 +1,11 @@
+python-dotenv
+langchain
+langchain_google_genai
+pydub
+sse_starlette
+requests
+pyttsx3
+SpeechRecognition
+google-generativeai
+pywhatkit
+
